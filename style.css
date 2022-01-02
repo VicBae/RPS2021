@@ -1,0 +1,30 @@
+.header{
+    padding-top:20px;
+    text-align: center;
+}
+
+.content{
+    
+    display:flex;
+    justify-content: space-evenly;
+    padding: 200px 250px 0px;
+
+}
+
+.btn{
+width:70px;
+height:70px;
+}
+
+body{
+    margin:0;
+}
+
+.score{
+    text-align: center;
+    padding:30px;
+    height:200px;
+    display: flex;
+    /* align-items: center;
+    justify-content: center; */
+}
